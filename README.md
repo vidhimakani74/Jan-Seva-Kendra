@@ -1,5 +1,5 @@
 # Jan-Seva-Kendra
-Token Generation site for jansevakendra
+Token Generation site for Jansevakendra.
 
 preview:
 
